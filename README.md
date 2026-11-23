@@ -1,7 +1,13 @@
+[![make.fun · u-0xkianno-one-emoji-one-smile-5470751f](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+[![rank](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/Fawulana/u-0xkianno-one-emoji-one-smile-5470751f-entry/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+[![reward](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/Fawulana/u-0xkianno-one-emoji-one-smile-5470751f-entry/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+
 # One Emoji, One Smile
 
 A make.fun bounty entry: one program that writes exactly one emoji to
 `/output/entry.txt` — the single emoji most likely to make a stranger smile.
+
+Entry for the [One Emoji, One Smile](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f) bounty on make.fun. A judge compares entries two at a time and picks the warmer; the $5 reward is split over the top ten places.
 
 ## The choice: 🤗 Hugging Face (U+1F917)
 
